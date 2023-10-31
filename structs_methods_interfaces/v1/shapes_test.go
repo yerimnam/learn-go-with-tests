@@ -9,5 +9,4 @@ func TestPerimeter(t *testing.T) {
 	if got != want {
 		t.Errorf("got %.2f want %.2f", got, want)
 	}
-
 }
